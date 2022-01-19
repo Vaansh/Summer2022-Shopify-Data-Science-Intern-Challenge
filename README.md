@@ -6,8 +6,12 @@ Kindly find my solutions in this directory as `question1.md` (or `question1.pdf`
 
 ## Question 1
 
-To run the python program simply type
+First install the required packages by typing
+```zsh
+pip install -r requirements.txt
+```
 
+in the directory, then to run the script simply type
 ```zsh
 python aov.py
 ```
