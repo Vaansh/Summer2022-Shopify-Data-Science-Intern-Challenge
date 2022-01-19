@@ -129,7 +129,7 @@ SELECT TOP 1 COUNT(*),
 ## Directory Structure:
 
 ```
-|-- Shopify
+|-- Summer2022-Shopify-Data-Science-Intern-Challenge
     |-- .gitignore
     |-- aov.py
     |-- challenge.pdf
