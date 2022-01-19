@@ -130,6 +130,7 @@ SELECT TOP 1 COUNT(*),
 
 ```
 |-- Shopify
+    |-- .gitignore
     |-- aov.py
     |-- challenge.pdf
     |-- data.csv
@@ -137,6 +138,7 @@ SELECT TOP 1 COUNT(*),
     |-- question1.pdf
     |-- question2.md
     |-- question2.pdf
+    |-- requirements.txt
     |-- images
         |-- 1 a.png
         |-- 1 b.png
